@@ -1,1 +1,1 @@
-console.log('Script funcionou');
+console.log('Script funcionou')
